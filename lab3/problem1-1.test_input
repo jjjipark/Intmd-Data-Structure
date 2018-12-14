@@ -1,0 +1,20 @@
+19
+pop
+print
+push 1
+push 2
+print
+pop
+push -5
+push 0
+push 10
+pop
+pop
+push 3456
+print
+pop
+pop
+pop
+pop
+pop
+print
